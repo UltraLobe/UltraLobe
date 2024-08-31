@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultralobe&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ultralobe GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultralobe28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ultralobe GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultralobe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
